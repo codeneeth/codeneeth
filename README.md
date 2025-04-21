@@ -1,4 +1,5 @@
 ## Hey there, I'm @codeneeth!
+![Banner](https://raw.githubusercontent.com/codeneeth/codeneeth/refs/heads/main/ff163b4e-5e4c-4de8-a505-8cd19350bb8f.png)
 
 - 👀 I’m interested in creating websites and building cool digital stuff.
 - 🌱 I’m currently learning JavaScript, C#, and app development.
