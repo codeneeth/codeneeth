@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning JavaScript, C#, and app development.
 - 💞️ I’m looking to collaborate on anything fun and challenging—open to ideas!
 - 📫 How to reach me:  
-  - Instagram: [@praneeth.hooked](https://instagram.com/praneeth.hooked)  
+  - Instagram: [@Codeneeth](https://instagram.com/codeneeth)  
   - Telegram: [@slayerxd](https://t.me/slayerxd)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can go from caffeine-fueled night coder to chill playlist curator in 5 seconds flat.
