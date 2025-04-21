@@ -15,10 +15,11 @@
 [Instagram](https://instagram.com/codeneeth)  
 [Telegram](https://t.me/slayerxd)
 
-### random stuff:
+### :: personal payload
 - he/him  
 - caffeine-powered  
-- always learning  
+- chill playlist curator  
+- debugging life, one bug at a time  
 
 
 ---
