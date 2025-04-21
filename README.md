@@ -1,14 +1,25 @@
 ## Hey there, I'm @codeneeth!
 ![Banner](https://raw.githubusercontent.com/codeneeth/codeneeth/refs/heads/main/ff163b4e-5e4c-4de8-a505-8cd19350bb8f.png)
 
-- 👀 I’m interested in creating websites and building cool digital stuff.
-- 🌱 I’m currently learning JavaScript, C#, and app development.
-- 💞️ I’m looking to collaborate on anything fun and challenging—open to ideas!
-- 📫 How to reach me:  
-  - Instagram: [@Codeneeth](https://instagram.com/codeneeth)  
-  - Telegram: [@slayerxd](https://t.me/slayerxd)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can go from caffeine-fueled night coder to chill playlist curator in 5 seconds flat.
+- 👀 I’m interested in creating ## hey, I’m codeneeth 👾
+
+> building cool things for the web.  
+> part-time app dev, full-time code tinkerer.
+
+### currently into:
+- Frontend web magic (HTML, CSS, Tailwind)
+- JavaScript & diving into C#
+- Crafting apps, breaking stuff (then fixing it)
+
+### connect with me:
+[Instagram](https://instagram.com/codeneeth)  
+[Telegram](https://t.me/slayerxd)
+
+### random stuff:
+- he/him  
+- caffeine-powered  
+- always learning  
+
 
 ---
 
