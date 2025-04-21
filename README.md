@@ -6,10 +6,14 @@
 > building cool things for the web.  
 > exploring code, design, and the dev universe.
 
-### currently learning:
-- Frontend magic (HTML, CSS, Tailwind)
-- JavaScript & diving into C#
-- App dev basics — stay tuned!
+### tech I work with:
+- HTML, CSS, Tailwind
+- JavaScript
+
+### stepping into:
+- React & TypeScript (frontend frameworks)
+- Backend development (APIs, server-side logic)
+
 
 ### connect with me:
 [Instagram](https://instagram.com/codeneeth)  
