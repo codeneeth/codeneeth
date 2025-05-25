@@ -99,5 +99,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=codeneeth&theme=react-dark" alt="GitHub Activity Graph" />
+  ![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codeneeth)
+
 </p>
