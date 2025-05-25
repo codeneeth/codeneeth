@@ -99,6 +99,7 @@
 ---
 
 <p align="center">
-  ![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codeneeth)
+[![WakaTime](https://img.shields.io/badge/WakaTime-Loading...-blue?logo=wakatime)](https://wakatime.com/)
+
 
 </p>
