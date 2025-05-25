@@ -98,8 +98,8 @@
 
 ---
 
+## ⏳ WakaTime Stats (Coming Soon)
+
 <p align="center">
-[![WakaTime](https://img.shields.io/badge/WakaTime-Loading...-blue?logo=wakatime)](https://wakatime.com/)
-
-
+  [![WakaTime](https://img.shields.io/badge/WakaTime-Loading...-blue?logo=wakatime)](https://wakatime.com/)
 </p>
