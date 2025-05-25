@@ -12,19 +12,18 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F76D6D&center=true&vCenter=true&width=600&height=60&lines=I'm+a+Coder.;Developer.;Problem+Solver.;Lifelong+Learner.;Tech+Enthusiast." alt="typing intro"/>
-
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- Full-time software developer with strong foundations in **web technologies** and **cloud infrastructure**  
-- Daily driver of **Arch Linux** — love that bleeding edge power and customization  
-- Part-time **game cracker & modder** — exploring memory editing, cheats, and hacks for PUBG / BGMI as a hobby  
-- Based in **Hyderabad, India**  
-- Always eager to **learn by breaking and building**; hands-on approach to mastering tech  
-- Focused on writing clean, efficient code and solving real-world problems  
+- Currently pursuing **BTech**, passionate about coding and technology  
+- Enthusiastic **coder, problem solver, and lifelong learner**  
+- Daily driver of **Arch Linux** — love customizing and exploring Linux deeply  
+- Part-time **game cracker & modder** — exploring cheats and hacks for PUBG / BGMI as a fun hobby  
+- Interested in **cloud technologies, programming languages, and security**  
+- Always experimenting, breaking things, and building projects to grow skills  
 
 ---
 
