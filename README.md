@@ -11,7 +11,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F76D6D&center=true&vCenter=true&width=480&height=50&lines=Full-time+Software+Developer.;Part-time+Game+Cracker+%26+Modder.;Passionate+About+Cloud+%2C+Linux+%26+Security." alt="typing intro"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F76D6D&center=true&vCenter=true&width=600&height=60&lines=I'm+a+Coder.;Developer.;Problem+Solver.;Lifelong+Learner.;Tech+Enthusiast." alt="typing intro"/>
+
 </p>
 
 ---
