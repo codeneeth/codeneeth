@@ -19,7 +19,6 @@
 - 🎓 Pursuing **BTech**, passionate about coding and tech innovation  
 - 💻 Enthusiastic **coder, problem solver, and lifelong learner**  
 - 🐧 Daily driver of **Arch Linux**, love exploring and customizing Linux  
-- 🎮 **Game modder** – BGMI/PUBG hacks & reverse engineering for fun  
 - ☁️ Interested in **cloud computing, programming, and security**  
 - 🔧 Always breaking, fixing, and building cool stuff  
 
