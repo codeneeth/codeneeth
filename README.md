@@ -57,14 +57,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
 
-### 🔍 Reverse Engineering & Hacking
-
-<p>
-  <img src="https://img.shields.io/badge/Memory_Editing-000000?style=flat&logo=codeforces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android_Debugging-3DDC84?style=flat&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Magisk_Root-00AF9C?style=flat&logo=android&logoColor=white"/>
-</p>
-
 ---
 
 ## 🧰 Tools & Platforms
@@ -76,12 +68,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Desktop-24292E?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat&logo=google-chrome&logoColor=white"/>
   <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Replit-667881?style=flat&logo=replit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Termux-000000?style=flat&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
 </p>
 
@@ -90,7 +80,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeneeth&show_icons=true&theme=radical&hide_title=true&hide_border=true" width="48%" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeneeth&show_icons=true&theme=radical&hide_title=true&hide_border=true&cache_seconds=1800" width="48%" />
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=codeneeth&theme=radical&hide_border=true" width="48%" />
 </p>
 
